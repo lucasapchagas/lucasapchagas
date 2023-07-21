@@ -5,19 +5,16 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%">Languages</td>
-    <td width="50%"></td>
+    <td width="100%">Languages</td>
   </tr>
   <tr>
     <td>
      <p>
       <ul>
-        <p >
+        <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-        </p>
-        <p>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
@@ -25,7 +22,6 @@
       </ul>
      </p>
     </td >
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasapchagas&hide_progress=true" alt="lucasapchagas"/></td>
   </tr>
 </table>
 
