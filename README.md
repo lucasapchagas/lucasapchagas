@@ -1,6 +1,6 @@
 # Hello, it's my github profile 😉
 #### I've been building software since i was 10 years old. I'm now looking fowards to work as Java Developer, inspired by Minecraft modding.
- - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="20" height="20"/> **Currently working:** Building Android Source Project for Motorola [🌟 Team Excellence Award](https://www.linkedin.com/posts/lucasapchagas_indt-motorola-activity-6949783904971055104-UJ8T?utm_source=share&utm_medium=member_desktop)
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="20" height="20"/> **Previously working:** Building Android Source Project for Motorola [🌟 Team Excellence Award](https://www.linkedin.com/posts/lucasapchagas_indt-motorola-activity-6949783904971055104-UJ8T?utm_source=share&utm_medium=member_desktop)
  - <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="springboot" width="20" height="20"/> **Currently learning:** Spring Boot Framework
 
 <table width="100%" align="center">
